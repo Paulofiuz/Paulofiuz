@@ -43,13 +43,6 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções
 - **[escrevendo-arquivo-com-node](https://github.com/Paulofiuz/escrevendo-arquivo-com-node)** - Manipulação de arquivos com Node.js
 - **[lendo-arquivos](https://github.com/Paulofiuz/lendo-arquivos)** - Leitura de arquivos com Node.js
 
-## 📬 Contato
-
-<div align="center">
-  
-  [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/eder-fiuza-49351b228/))
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulofiuz)
-  
 </div>
 
 ---
