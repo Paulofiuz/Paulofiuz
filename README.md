@@ -36,12 +36,7 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções
 - **[projeto-simples-tabuleiro](https://github.com/Paulofiuz/projeto-simples-tabuleiro)** - Tabuleiro interativo com Next.js
 - **[crud-simples-node](https://github.com/Paulofiuz/crud-simples-node)** - API CRUD com Node.js e Express
 
-### 📚 Outros Projetos
-- **[JavaScript-Promise-](https://github.com/Paulofiuz/JavaScript-Promise-)** - Estudos sobre Promises em JavaScript
-- **[-Temporizador-com-node](https://github.com/Paulofiuz/-Temporizador-com-node)** - Temporizador simples com Node.js
-- **[middlewares-no-js](https://github.com/Paulofiuz/middlewares-no-js)** - Exemplos de middlewares
-- **[escrevendo-arquivo-com-node](https://github.com/Paulofiuz/escrevendo-arquivo-com-node)** - Manipulação de arquivos com Node.js
-- **[lendo-arquivos](https://github.com/Paulofiuz/lendo-arquivos)** - Leitura de arquivos com Node.js
+
 
 </div>
 
