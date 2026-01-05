@@ -28,13 +28,9 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 
-## 📂 Projetos Recentes
 
-### 🎯 Destaques
-- **[Carousel-react](https://github.com/Paulofiuz/Carousel-react)** - Carrossel responsivo para React
-- **[-cronosPomodoro](https://github.com/Paulofiuz/-cronosPomodoro)** - Timer Pomodoro em React
-- **[projeto-simples-tabuleiro](https://github.com/Paulofiuz/projeto-simples-tabuleiro)** - Tabuleiro interativo com Next.js
-- **[crud-simples-node](https://github.com/Paulofiuz/crud-simples-node)** - API CRUD com Node.js e Express
+
+
 
 
 
