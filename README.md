@@ -1,47 +1,53 @@
-# 👨‍💻 Paulo Fiuza | Desenvolvedor Full-Stack
+# 👋 Olá, eu sou Eder Paulo Fiuza Aguiar
 
-<div align="center">
-  
-  ![GitHub Followers](https://img.shields.io/github/followers/Paulofiuz?style=for-the-badge&label=Seguidores&color=blue)
-  ![GitHub Repos](https://img.shields.io/badge/Repositórios-10+-blue?style=for-the-badge)
-
-</div>
-
-## 📖 Sobre Mim
-
-Olá! Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções com **React**, **TypeScript** e **Node.js**. Estou sempre aprendendo e compartilhando conhecimento através de projetos práticos.
-
-## 🚀 Tecnologias
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-
-
-
-
-
-
-
-</div>
+Desenvolvedor focado em JavaScript e TypeScript, com experiência em desenvolvimento web utilizando React e Next.js. Tenho interesse em atuar na área de desenvolvimento Front-end e Full-Stack, participando de projetos que envolvam boas práticas, escalabilidade e qualidade de código.
 
 ---
 
-<div align="center">
-  
-  ⚡ **"O código é poesia que a máquina entende"** ⚡
-  
-  📍 **Brasil** • 🎯 **Foco: Desenvolvimento Full-Stack**
+## 🔧 Tecnologias e Ferramentas
 
-</div>
+### 🚀 Principais Stacks
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Next.js
+
+### 🛠️ Outras competências
+- HTML5 | CSS3
+- Node.js
+- Git e GitHub
+- REST APIs
+- SQL básico
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 **Projetos Front-end com React e Next.js**  
+Interfaces modernas, componentização e consumo de APIs.
+
+🔹 **Aplicações com TypeScript**  
+Foco em tipagem estática, segurança e organização do código.
+
+🔹 **Integração com APIs**  
+Consumo e criação de endpoints REST.
+
+> Acesse meus repositórios para ver códigos, estudos e projetos pessoais.
+
+---
+
+## 🎯 Objetivo profissional
+
+Atuar como **Desenvolvedor Front-end ou Full-Stack JavaScript/TypeScript**, evoluindo em:
+- Next.js
+- boas práticas de arquitetura
+- testes
+- padrões de projeto
+- performance de aplicações web
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/eder-fiuza-49351b228/
+- E-mail: paulofiuza24@gmail.com
