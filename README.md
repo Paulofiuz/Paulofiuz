@@ -19,33 +19,6 @@ Desenvolvedor focado em JavaScript e TypeScript, com experiência em desenvolvim
 - REST APIs
 - SQL básico
 
----
-
-## 📌 Projetos em destaque
-
-🔹 **Projetos Front-end com React e Next.js**  
-Interfaces modernas, componentização e consumo de APIs.
-
-🔹 **Aplicações com TypeScript**  
-Foco em tipagem estática, segurança e organização do código.
-
-🔹 **Integração com APIs**  
-Consumo e criação de endpoints REST.
-
-> Acesse meus repositórios para ver códigos, estudos e projetos pessoais.
-
----
-
-## 🎯 Objetivo profissional
-
-Atuar como **Desenvolvedor Front-end ou Full-Stack JavaScript/TypeScript**, evoluindo em:
-- Next.js
-- boas práticas de arquitetura
-- testes
-- padrões de projeto
-- performance de aplicações web
-
----
 
 ## 📫 Contato
 
