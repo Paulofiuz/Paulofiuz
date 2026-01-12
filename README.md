@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Eder Paulo Fiuza Aguiar
+# 👋 Olá, eu sou Eder 
 
 Desenvolvedor focado em JavaScript e TypeScript, com experiência em desenvolvimento web utilizando React e Next.js. Tenho interesse em atuar na área de desenvolvimento Front-end e Full-Stack, participando de projetos que envolvam boas práticas, escalabilidade e qualidade de código.
 
