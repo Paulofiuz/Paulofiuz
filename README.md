@@ -17,7 +17,7 @@ Desenvolvedor focado em JavaScript e TypeScript, com experiência em desenvolvim
 - Node.js
 - Git e GitHub
 - REST APIs
-- SQL básico
+- SQL 
 
 
 ## 📫 Contato
